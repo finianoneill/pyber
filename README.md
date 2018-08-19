@@ -19,6 +19,8 @@ Moreover, I have also built into the Jupyter Notebook the following three pie ch
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
 
+Lastly, a full analysis of the data can also be found within the Jupyter Notebook that I built titled 'pyber_analysis.ipynb'.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
